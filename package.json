@@ -1,0 +1,16 @@
+{
+  "name": "typetasks-main",
+  "version": "1.0.0",
+  "description": "A small, **type-safe task tracker** built with **HTML, CSS, and TypeScript** — no frameworks.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}

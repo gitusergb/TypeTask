@@ -1,0 +1,60 @@
+# dependencies
+node_modules/
+
+# production
+build/
+dist/
+.next/
+out/
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# coverage
+coverage/
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
+
+# pnpm
+pnpm-lock.yaml
+
+# TypeScript
+*.tsbuildinfo
+
+# Prisma
+prisma/dev.db
+prisma/dev.db-journal
+
+# uploads (optional)
+uploads/
+
+# generated files
+*.tgz
