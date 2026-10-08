@@ -2,7 +2,7 @@
 
 A small, **type-safe task tracker** built with **HTML, CSS, and TypeScript** — no frameworks.
 
-**Live:** https://kalviumcommunity.github.io/TypeTasks/
+**Live:** https://typetask.netlify.app/
 
 Add tasks, advance them through `todo → in-progress → done`, filter by status, and delete — all driven by a strict TypeScript data model, so an invalid task can't exist.
 
